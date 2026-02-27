@@ -1,6 +1,6 @@
 # My-Transformer
 
-This is my own Transformer model for machine translation.It is able to run and inference for some easy translation.
+This is my own Transformer model created by imitating others'ideas and being paraphrased by myself for machine translation.It is able to run and inference for some easy translation.
 
 ## Quick Start!
 
@@ -38,6 +38,7 @@ Training for one epoch costs about 30s-1min.
 
 I referred to the bilibili video:
 https://www.bilibili.com/video/BV1MGrTYVEXq/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=20df0a25b4d9157b37d387d0de0bb483
+
 
 
 
