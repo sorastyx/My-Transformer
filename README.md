@@ -36,6 +36,9 @@ I complete this task on a vGPU-32GB cuda.
 
 Training for one epoch costs about 30s-1min.
 
+I referred to the bilibili video:
+https://www.bilibili.com/video/BV1MGrTYVEXq/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=20df0a25b4d9157b37d387d0de0bb483
+
 
 
 
